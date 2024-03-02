@@ -14,20 +14,20 @@
 .bg3 {
     width:100px;
     height: 100px;
-    background:url(/images/bg3.png) repeat;
+    background:url('/images/bg3.png') repeat;
     margin:10px;
 }
 .bg4 {
     width:100px;
     height: 100px;
-    background:url(/images/bg4.png) repeat;
+    background:url(../images/bg4.png) repeat;
     margin:10px;
 }
 
 .bg5 {
     width:100px;
     height: 100px;
-    background:url(/images/bg5.png) repeat;
+    background:url('../images/bg5.png') repeat;
     margin:10px;
 }
 .bg6 {
